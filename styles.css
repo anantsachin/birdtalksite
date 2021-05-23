@@ -29,7 +29,7 @@ p3{
 
 nav ul {
   background-color:gold;
-  padding: 0.5em;
+  padding: 1em;
     display: flex;
     flex-direction: column;
 }
